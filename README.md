@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Omnichannel-CRM?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Omnichannel-CRM?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Retail-Omnichannel-CRM?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,7 +54,7 @@ Welcome to the ultimate curated directory of **Retail Omnichannel CRM Platforms*
 
 ## 💻 Open-Source GitHub Projects
 
-| Repository & Link | ⭐ GitHub Stars | 🏷️ Category & Architecture | ⚡ Technical Features & Key Highlights |
+| Repository & Link | ⭐ GitHub_Stars | 🏷️ Category & Architecture | ⚡ Technical Features & Key Highlights |
 | :--- | :--- | :--- | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Customer Relationship Management | **Modern open-source CRM with Notion-like interface and GraphQL API**. Built on TypeScript, React, and NestJS. Features customizable object schemas, kanban pipelines, email integration, and full data control under AGPL-3.0. |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Enterprise ERP, CRM & Commerce | **Open-source suite of business apps**, LGPL-3.0 licensed. Fully integrated CRM, Point of Sale (POS), e-commerce, inventory management, and marketing automation for omnichannel retailers. |
@@ -81,7 +81,7 @@ Contributions are highly welcome! Please follow these guidelines:
 
 1. 🍴 **Fork the Repository** to your GitHub account.
 2. 📝 **Add or Modify Entries** in `README.md` following the tabular format.
-3. 🔍 **Provide Accurate Details**: Name, official link, category, star badge, and factual description.
+3. 🔍 **Provide Accurate Details**: Name, official link, category, Stars_Badge, and factual description.
 4. 🚀 **Submit a Pull Request** with a detailed summary of your additions.
 
 Explore more curated open-source lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
