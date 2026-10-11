@@ -1,257 +1,111 @@
-# Awesome-Retail-Omnichannel-CRM
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Retail Omnichannel CRM Banner" width="100%" />
+</p>
 
-## Top Retail Omnichannel CRM Ecosystem
+# 🛍️ Awesome Retail Omnichannel CRM Ecosystem 🚀
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Omnichannel-CRM?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Retail-Omnichannel-CRM?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Omnichannel-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+## 🌟 Executive Overview & SEO Index
 
-*Focused on Customer Data Unification, Omnichannel Engagement & Self-Hosted Retail Platforms*
+Welcome to the ultimate curated directory of **Retail Omnichannel CRM Platforms**, **Customer Data Platforms (CDPs)**, **Headless Commerce Engines**, and **Point of Sale (POS) Systems**. Designed for enterprise IT architects, e-commerce managers, and retail tech founders, this repo tracks commercial SaaS leaders and self-hosted open-source stacks that drive unified customer journeys across online storefronts, mobile apps, and physical retail locations.
 
-**Last updated: October 2026**
+> 🔍 **Primary Keywords**: *Retail Omnichannel CRM, Open Source Commerce Platform, Headless E-Commerce, Customer Data Platform (CDP), Point of Sale (POS) Integration, AI Retail Personalization, Self-Hosted CRM, Customer 360 Unification.*
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **commercial retail omnichannel CRM platforms** and **open-source projects** that unify customer data, personalize engagement, and orchestrate commerce across online, in-store, and mobile channels.
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer & License](#%EF%B8%8F-disclaimer--license)
 
+---
 
+## 🏢 SaaS & Hosted Commercial Platforms
 
-**Examples** include Salesforce Retail Cloud, Shopify Plus, BigCommerce Enterprise, commercetools, Dynamic Yield, Bloomreach, SAP Commerce Cloud, Adobe Commerce, Kibo Commerce, and VTEX (the category leaders).
+> 📈 **Market Intelligence**: The global Retail Omnichannel CRM & Commerce Software sector is valued at **$12.5 Billion** and projected to reach **$28.4 Billion** by 2030 (CAGR ~15.2%). The sector is **moderately fragmented**, bridging legacy enterprise software titans (Salesforce, SAP, Adobe) with modern composable MACH commerce ecosystems (Shopify, commercetools) and specialized AI personalization platforms.
 
+| Product | 🏢 Company Size / Revenue / Valuation | 💰 Starting Tier Price | 🎁 Free Tier / Trial Limit | 📝 Strategic Summary & Best Use Cases |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Plus](https://www.shopify.com/plus)** | **~$305.4B** Valuation ($11.6B Revenue) | **$2,300/mo** | 3-day free trial + 3 months at $1/mo (Standard); custom demo for Plus | **Enterprise e-commerce platform** — omnichannel selling, customer accounts, and marketing automation with extensive app ecosystem. **Best for high-growth DTC brands**. |
+| **[SAP Commerce Cloud](https://www.sap.com/)** | **~$240.7B** Valuation ($43.3B Revenue) | **~$150,000/yr** (Custom contract) | No free trial; interactive demo on request | **Enterprise commerce platform** — omnichannel retail with deep SAP ERP integration. **Best for SAP-centric retailers**. |
+| **[Salesforce Retail Cloud](https://www.salesforce.com/)** | **~$188.6B** Valuation ($41.5B Revenue) | **$25/user/mo** (Starter Suite) / **$165/user/mo** (Enterprise) | 30-day free trial (no credit card required) | **Salesforce's retail industry CRM** — unified customer profiles, order management, loyalty programs, and personalized engagement across channels. **Best for enterprise retailers**. |
+| **[Adobe Commerce](https://business.adobe.com/products/magento/magento-commerce.html)** | **~$102.8B** Valuation ($23.0B+ Revenue) | **~$22,000/yr** (Based on gross merchandise value) | No free trial (Open-source Magento version is free self-hosted) | **Enterprise e-commerce platform** (formerly Magento) — B2B and B2C commerce with personalization. **Best for large retailers**. |
+| **[Bloomreach](https://www.bloomreach.com/)** | **~$2.2B** Valuation ($260M+ ARR) | **~$60,000/yr** (Custom quote) | No free trial; custom live demo available | **Commerce experience platform** — AI-powered product discovery, content, and personalization. **Best for retail personalization**. |
+| **[commercetools](https://commercetools.com/)** | **~$1.9B** Valuation (Private) | **~$50,000/yr** (Custom consumption pricing) | 60-day free developer trial account | **Composable commerce platform** — API-first, MACH architecture for omnichannel retail. **Best for enterprises wanting flexibility**. |
+| **[VTEX](https://vtex.com/)** | **~$603M** Valuation ($240.5M Revenue) | **~$250/mo** + revenue share (Custom quote) | 14-day trial / sandbox environment available | **Composable commerce platform** — marketplace, omnichannel, and B2B capabilities for global retailers. **Best for Latin American and global retailers**. |
+| **[BigCommerce Enterprise](https://www.bigcommerce.com/)** | **~$342.3M** Revenue (Commerce.com) | **$29/mo** (Standard) / **~$1,000/mo** (Enterprise custom quote) | 15-day free trial (no credit card required) | **Open SaaS e-commerce platform** — headless commerce, B2B features, and omnichannel capabilities. **Best for mid-market and enterprise retailers**. |
+| **[Dynamic Yield](https://www.dynamicyield.com/)** | **Mastercard Subsidiary** (Acquired) | **~$35,000/yr** (Custom quote) | No free trial; interactive sandbox demo | **Personalization and recommendation platform** — real-time optimization for e-commerce. **Best for enterprise personalization**. |
+| **[Kibo Commerce](https://kibocommerce.com/)** | **Private Enterprise** | **~$40,000/yr** (Custom usage-based pricing) | No free trial; interactive sandbox demo upon request | **Composable commerce platform** — order management, personalization, and subscription capabilities. **Best for omnichannel retailers**. |
 
+---
 
-**Open-source emphasis**: Retail omnichannel CRM is a growing open-source domain. **Spree** leads as the most complete open-source commerce platform for DTC, B2B, marketplaces, and omnichannel — with REST APIs, TypeScript SDKs, a React admin dashboard, and production-ready Next.js storefront, all under BSD 3-Clause license . **EspoCRM** delivers a free, self-hosted CRM with contacts, deals, support cases, and email campaigns under AGPLv3 . **LEO CDP** provides an AI-first Customer Data Platform for unified customer profiles, real-time analytics, and predictive segmentation . **Tracardi** offers an API-first composable CDP engine as an open-source alternative to Segment and RudderStack . **Krayin** brings a Laravel-based CRM for complete customer lifecycle management . **Saleor** delivers a GraphQL-native headless commerce platform for omnichannel retail .
+## 💻 Open-Source GitHub Projects
 
+| Repository & Link | ⭐ GitHub Stars | 🏷️ Category & Architecture | ⚡ Technical Features & Key Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Customer Relationship Management | **Modern open-source CRM with Notion-like interface and GraphQL API**. Built on TypeScript, React, and NestJS. Features customizable object schemas, kanban pipelines, email integration, and full data control under AGPL-3.0. |
+| **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Enterprise ERP, CRM & Commerce | **Open-source suite of business apps**, LGPL-3.0 licensed. Fully integrated CRM, Point of Sale (POS), e-commerce, inventory management, and marketing automation for omnichannel retailers. |
+| **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Headless Commerce Engine | **Open-source Node.js headless commerce engine** (Shopify alternative), MIT licensed. Features multi-region support, automated order management, pluggable payment/shipping modules, and extensible POS starter kit. |
+| **[Bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | E-Commerce & Marketplace | **Open-source Laravel e-commerce framework**, MIT licensed. Features built-in multi-inventory sources, localized stores, B2B portal, multi-vendor marketplace, and mobile app integration. |
+| **[Krayin CRM](https://github.com/krayin/laravel-crm)** | [![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) | Customer Relationship Management | **Free & open-source Laravel CRM solution for SMEs and Enterprises**, MIT licensed. Features Kanban visual lead tracking, customizable fields, ACL role-based permissions, and activity management. |
+| **[Saleor](https://github.com/saleor/saleor)** | [![Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | Headless Omnichannel Commerce | **High-performance, open-source headless e-commerce platform**, GraphQL-native API. Features multi-channel routing, multi-warehouse inventory, PWA storefronts, and 160+ webhooks. Used by Lush and Breitling. |
+| **[Spree](https://github.com/spree/spree)** | [![Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | Commerce & Omnichannel Platform | **Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel**, BSD 3-Clause licensed. Includes React Admin Dashboard, Next.js Storefront, multi-region routing, and channel attribution. |
+| **[WooCommerce](https://github.com/woocommerce/woocommerce)** | [![Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | E-Commerce Platform | **Open-source e-commerce platform built on WordPress**, GPL-2.0 licensed. Extensive plugin ecosystem for POS integration, customer management, inventory sync, and multi-channel fulfillment. |
+| **[EspoCRM](https://github.com/espocrm/espocrm)** | [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | Customer Relationship Management | **Free, open-source self-hosted CRM**, AGPLv3 licensed. Track contacts, manage deals, handle support cases with customer portals, run email campaigns, and configure custom layouts without code. |
+| **[Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm)** | [![Stars](https://img.shields.io/github/stars/fatfreecrm/fat_free_crm?style=social&color=white)](https://github.com/fatfreecrm/fat_free_crm/stargazers) | Customer Relationship Management | **Open-source Ruby on Rails CRM platform**, MIT licensed. Features team collaboration, lead management, opportunity tracking, contact lists, and elegant user experience. |
+| **[Tracardi](https://github.com/Tracardi/tracardi)** | [![Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers) | Customer Data Platform (CDP) | **API-First Composable Open-source Customer Data Platform Engine**, MIT licensed. Ingests, models, and unifies customer data from web/mobile touchpoints to personalize user experiences in real time. |
+| **[Uyuni for Retail](https://github.com/uyuni-project/uyuni)** | [![Stars](https://img.shields.io/github/stars/uyuni-project/uyuni?style=social&color=white)](https://github.com/uyuni-project/uyuni/stargazers) | Retail Infrastructure Operations | **Open-source retail infrastructure management platform**, GPL-2.0 licensed. Manages image deployment, PXE boot, Salt state automation, and monitoring across distributed POS terminals and branch servers. |
+| **[LiteCart](https://github.com/litecart/litecart)** | [![Stars](https://img.shields.io/github/stars/litecart/litecart?style=social&color=white)](https://github.com/litecart/litecart/stargazers) | Lightweight E-Commerce | **Lightweight open-source e-commerce platform**, free license. Features modular structure, Stripe and PayPal integrations, fast loading performance, and Docker/Kubernetes deployment support. |
+| **[Liberu Ecommerce](https://github.com/liberusoftware/ecommerce-laravel)** | [![Stars](https://img.shields.io/github/stars/liberusoftware/ecommerce-laravel?style=social&color=white)](https://github.com/liberusoftware/ecommerce-laravel/stargazers) | Modular E-Commerce | **Modular e-commerce platform built on Laravel, Livewire & Filament**. Includes reactive shopping cart, Stripe/PayPal checkout, dropshipping integration, customer segmentation, and abandoned cart recovery. |
+| **[LEO CDP](https://github.com/trieu/leo-cdp-framework)** | [![Stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers) | AI Customer Data Platform | **Open Source AI-first Customer Data Platform framework**, Apache-2.0 licensed. Features omnichannel data collection, Real-Time Customer 360, RFM analysis, dynamic audience segmentation, and predictive scoring. |
+| **[RealTimeX CRM](https://github.com/therealtimex/realtimex-crm)** | [![Stars](https://img.shields.io/github/stars/therealtimex/realtimex-crm?style=social&color=white)](https://github.com/therealtimex/realtimex-crm/stargazers) | Privacy-First CRM | **Full-featured privacy-first CRM**, Bring Your Own Database (Supabase) configuration. Includes contact management, task reminders, email logging, Kanban deal pipelines, and SSO authentication. |
 
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 🤝 How to Contribute
 
+Contributions are highly welcome! Please follow these guidelines:
 
+1. 🍴 **Fork the Repository** to your GitHub account.
+2. 📝 **Add or Modify Entries** in `README.md` following the tabular format.
+3. 🔍 **Provide Accurate Details**: Name, official link, category, star badge, and factual description.
+4. 🚀 **Submit a Pull Request** with a detailed summary of your additions.
 
-## Table of Contents
+Explore more curated open-source lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+---
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+## 📈 Star History
 
-- [How to Contribute](#how-to-contribute)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Retail-Omnichannel-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Retail-Omnichannel-CRM&type=date&legend=top-left)
 
-- [Disclaimer](#disclaimer)
+---
 
+## 💖 Support & Sponsorship
 
+If you find this repository valuable for your retail tech stack or enterprise architectural research, please consider supporting the project!
 
-## SaaS/Hosted Platforms
+- ⭐ **Star this repository** to improve its visibility on GitHub.
+- 🔄 **Fork and Share** with fellow engineers, developers, and architects.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
 
+---
 
+## ⚠️ Disclaimer & License
 
-- **[Salesforce Retail Cloud](https://www.salesforce.com/)**
-
-  **Salesforce's retail industry CRM** — unified customer profiles, order management, loyalty programs, and personalized engagement across channels. **Best for enterprise retailers**.
-
-
-
-- **[Shopify Plus](https://www.shopify.com/plus)**
-
-  **Enterprise e-commerce platform** — omnichannel selling, customer accounts, and marketing automation with extensive app ecosystem. **Best for high-growth DTC brands**.
-
-
-
-- **[BigCommerce Enterprise](https://www.bigcommerce.com/)**
-
-  **Open SaaS e-commerce platform** — headless commerce, B2B features, and omnichannel capabilities. **Best for mid-market and enterprise retailers**.
-
-
-
-- **[commercetools](https://commercetools.com/)**
-
-  **Composable commerce platform** — API-first, MACH architecture for omnichannel retail. **Best for enterprises wanting flexibility**.
-
-
-
-- **[Dynamic Yield](https://www.dynamicyield.com/)**
-
-  **Personalization and recommendation platform** — real-time optimization for e-commerce. **Best for enterprise personalization**.
-
-
-
-- **[Bloomreach](https://www.bloomreach.com/)**
-
-  **Commerce experience platform** — AI-powered product discovery, content, and personalization. **Best for retail personalization**.
-
-
-
-- **[SAP Commerce Cloud](https://www.sap.com/)**
-
-  **Enterprise commerce platform** — omnichannel retail with deep SAP ERP integration. **Best for SAP-centric retailers**.
-
-
-
-- **[Adobe Commerce](https://business.adobe.com/products/magento/magento-commerce.html)**
-
-  **Enterprise e-commerce platform** (formerly Magento) — B2B and B2C commerce with personalization. **Best for large retailers**.
-
-
-
-- **[Kibo Commerce](https://kibocommerce.com/)**
-
-  **Composable commerce platform** — order management, personalization, and subscription capabilities. **Best for omnichannel retailers**.
-
-
-
-- **[VTEX](https://vtex.com/)**
-
-  **Composable commerce platform** — marketplace, omnichannel, and B2B capabilities for global retailers. **Best for Latin American and global retailers**.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### Commerce & Omnichannel Platforms
-
-
-
-- **[Spree](https://github.com/spree/spree)**
-
-  **Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel**, BSD 3-Clause licensed with **16,000+ GitHub stars and 5,000+ forks** . **REST API with publishable keys, scoped secret keys, rate limiting, and OpenAPI 3.0 spec**. **Three TypeScript SDKs**: `@spree/sdk` (Store), `@spree/admin-sdk` (Admin), `@spree/seller-sdk` (Seller). **React Admin Dashboard** built on TanStack Router/Query, shadcn/ui, and Tailwind — extendable with plugins without forking. **Next.js Storefront** with multi-region URL routing, Stripe payments (Apple Pay, Google Pay, Klarna, Affirm), customer accounts, and SEO. **Channels** give each surface (web, mobile, POS, B2B panel, marketplace) its own catalog, pricing, payment methods, and order attribution. **Markets** bundle currency, language, payment methods, and shipping per region with EU Omnibus price history and customs duties built in. **Seller onboarding** with configurable requirements, commission engine, and payout ledger with Stripe Connect. **B2B & Wholesale** with price lists, volume tiers, customer groups, and tax exemptions. **Best for teams wanting a complete open-source commerce platform with omnichannel capabilities** .
-
-
-
-- **[Saleor](https://github.com/saleor/saleor)**
-
-  **High-performance, open-source headless e-commerce platform**, GraphQL-native API with **22,400+ GitHub stars** . **Composable & Extensible**: apps, 160+ webhooks, synchronous callbacks, dynamic models, and dashboard UI extensions. **Global & Omnichannel Ready**: native multi-channel, multi-warehouse, multi-currency, and multi-language support. **High Performance**: handles peaks of 1.7M requests in 24h; PWA-ready. **AI-Ready**: emerging integrations for conversational commerce (instant checkout in ChatGPT beta). **Enterprise Security**: SOC 2, GDPR, PCI-DSS compliant (Cloud); OpenTelemetry for distributed tracing. **Developer Tools**: Commerce as code with Configurator CLI, automated CI/CD, tech-agnostic (React, Next.js, Vue, Svelte). **Used by Lush, Breitling, and Rough Trade**. **Best for global brands and omnichannel retail** .
-
-
-
-- **[Liberu Ecommerce](https://github.com/liberusoftware/ecommerce-laravel)**
-
-  **Modular, production-ready e-commerce platform built on Laravel 13, PHP 8.5, Filament 5, and Livewire 4**, open-source . **Storefront & Cart**: reactive Livewire 4 shopping cart, multiple shipping methods with server-side rate calculation, guest and authenticated checkout. **Payments**: pluggable gateway factory with built-in Stripe (charges, webhooks, test mode) and PayPal integration. **Dropshipping**: first-class DropXL supplier integration with queued order placement. **Customer Segmentation** based on behaviour, LTV, and purchase history. **AI-Powered Product Recommendations** via collaborative filtering. **A/B Testing Framework** with variant assignment and conversion tracking. **Abandoned Cart Recovery** with email/SMS triggers and discount codes. **Gift Registry, Loyalty & Rewards Programme, B2B Wholesale Pricing, Multi-currency & Tax Management, and Refund & Return Management**. **Best for Laravel developers building custom e-commerce** .
-
-
-
-- **[Medusa POS Starter](https://github.com/medusajs/medusa-pos-starter)**
-
-  **Open-source point-of-sale application that connects directly to any Medusa backend**, MIT licensed . **In-Store Experience**: product discovery via search or barcode scanning (device camera), variant selection with live stock levels, cart management, customer profiles (attach existing or create new), and order creation syncing directly with Medusa Admin. **Store Operations**: staff authentication using Medusa Admin credentials, channel and region setup, setup wizard, order history with receipts, and device support via React Native and Expo (iOS and Android). **Developer Experience**: fully API-driven on Medusa's Admin API, composable for payments/printers/custom integrations, cross-platform. **Keeps every product, order, and customer record in sync across all channels**. **Best for retailers wanting to add in-store POS to an existing Medusa e-commerce backend** .
-
-
-
-- **[Ready POS for WooCommerce](https://github.com/Johuniq/ready-pos)**
-
-  **Point-of-sale interface plugin for WooCommerce**, GPL-2.0 licensed . **POS Terminal**: fullscreen checkout with product grid, cart, and payment. **Inventory Sync**: POS sales update WooCommerce stock in real time. **Multi-Outlet**: create outlets and registers for each location. **Register Sessions**: track opening cash, sales, and closing reconciliation. **Customer Management**: guest checkout and quick customer search. **Cash & Card Payments**, **Receipt Printing**, **Barcode Scanning** (keyboard-emulation), **Variable Products** with attribute picker, **Multi-Cart** (hold and switch between carts), **Order History**, **Refunds**, **Discounts & Tax**, and **Audit Logging**. All POS orders are WooCommerce orders — inventory updates in real time across online and in-store sales. **Best for WooCommerce stores wanting to add in-person sales** .
-
-
-
-### Customer Relationship Management
-
-
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)**
-
-  **Free, open-source CRM you host on your own server**, AGPLv3 licensed with **50,000+ companies worldwide** . **Track contacts, manage deals, handle support cases with a built-in customer portal, and run email campaigns**. **No per-user fees, no vendor lock-in, full control over data**. **Customize layouts, fields, workflows, and dashboards without writing code**. **Open architecture and REST API** for deeper changes. **Docker installation available** — runs EspoCRM, NGINX, and MySQL automatically. **System requirements**: PHP 8.3-8.5, MySQL 8.0+/MariaDB 10.3+/PostgreSQL 15.0+. **Best for organizations wanting a modern, self-hosted CRM with full customization** .
-
-
-
-- **[Krayin CRM](https://github.com/krayin/laravel-crm)**
-
-  **Free & open-source Laravel CRM solution for SMEs and Enterprises**, MIT licensed with **8,800+ GitHub stars** . **Complete customer lifecycle management**: CRM Dashboard with real-time record monitoring, lead and opportunity management (mark leads as won/lost with live updates), email interaction tracking, Access Control List (ACL) for role-based permissions, Activities Management (meetings, calls, notes), Kanban Visual Leads by stage, Unlimited Custom Fields, Product Creation, and Contact Management. **Modular design** for developer customization. **Best for Laravel developers and SMEs wanting a modern CRM foundation** .
-
-
-
-- **[RealTimeX CRM](https://github.com/therealtimex/realtimex-crm)**
-
-  **Full-featured CRM with zero cloud costs and complete privacy**, fork of Atomic CRM with "Bring Your Own Database" configuration . **Organize Contacts**, **Create Tasks & Set Reminders**, **Take Notes**, **Capture Emails** (CC to auto-save as notes), **Manage Deals** (Kanban pipeline), **Import & Export Data**, **Control Access** (Google, Azure, Keycloak, Auth0), **Track Activity History**, **Integrate via API**, **Customize Everything** (custom fields, themes, components), and **Bring Your Own Database** (Supabase connection via UI or environment variables). **Best for teams wanting a privacy-first CRM with zero cloud costs** .
-
-
-
-### Customer Data Platforms (CDP)
-
-
-
-- **[LEO CDP](https://github.com/trieu/leo-cdp-framework)**
-
-  **Open Source AI-first Customer Data Platform framework**, Apache-2.0 licensed . **Omnichannel Data Collection & Unification**: collect from web, mobile, CRM, POS, e-commerce, customer service, social media, advertising, IoT, and APIs — unify into a single customer profile. **Real-Time Customer 360**: behavioral, transactional, demographic, and engagement data across all touchpoints. **AI-Based Segmentation & Customer Scoring**: RFM Analysis, CLV prediction, churn prediction, purchase propensity, lead scoring, and dynamic audience generation. **Behavioral Tracking & Journey Mapping**: capture interactions in real time, visualize customer journeys. **Predictive Analytics & Customer Insights**: ML and AI models for hidden patterns and actionable insights. **Real-Time Audience Activation**: trigger actions based on behavior, events, attributes, and predictive scores. **Event-Driven Data Processing** with Dagster integration. **Omnichannel Personalization with Agentic AI & LLMs**: AI-generated content, next-best-action recommendations, dynamic journey orchestration, and conversational AI assistants. **Enterprise Security & Governance**: consent management, RBAC, audit logs, on-premise/private cloud deployment, multi-tenant architecture, Docker/Kubernetes support, Prometheus/Grafana monitoring .
-
-
-
-- **[Tracardi](https://github.com/Tracardi/tracardi-api)**
-
-  **API-First Composable Open-source Customer Data Platform Engine**, MIT with Common Clause license . **Open-source alternative to Segment, RudderStack, etc.** **Collect Customer Data**: collect, ingest, aggregate, and store from multiple sources in real time. **Model Customer Data**: create rules to model data from your page into user profiles. **Personalize User Experience**: real-time frontend apps, customized messages, marketing segmentation, and in-time messaging. **Unify Profiles**: merge customer data from various sources into a single profile, automate duplicate elimination. **Integrate Internal Systems**: centralized communication and orchestration hub. **Scale E-Commerce Easily**: headless, API-first, decentralized system. **Social Engagement**: connect e-commerce to social media via Tracardi bridges. **Reuse Current Infrastructure**: runs on cloud-managed services. **Docker installation** with `docker-compose up`. **Best for developers building custom CDP infrastructure** .
-
-
-
-- **[MessageBirds](https://pypi.org/project/messagebirds/)**
-
-  **Open-source, event-driven Customer Data & Engagement Platform**, Apache-2.0 licensed . **Python client SDK** mirroring the JavaScript SDK in scope — covers the core send-an-event/read-a-profile loop. **EventEnvelope** structure for sending events. **find_profile_by_identity** for reading profiles by identity. **Typed API** in `messagebirds.types` for audiences, governance, channels, templates, and journeys. **Best for Python developers wanting a lightweight CDP foundation** .
-
-
-
-### Point-of-Sale & Retail Operations
-
-
-
-- **[DonatJS Kasir](https://github.com/donatjs/kasir)**
-
-  **Zero-dependency, JSON-driven Point of Sale module for web applications**, MIT licensed . **Built on DonatJS Core** via a patch file registering a self-contained `kasir` component. **Product catalog management, reactive cart, multi-method payment processing** (Tunai, QRIS, Debit, Transfer), and **browser-native receipt printing** — no external dependency or build step. **Product catalog defined as plain JSON array** or fetched from REST API. **Payment behavior, tax, discount, and UI options configured from a single JSON object**. **Best for SME cashier counters and resource-constrained retail environments** .
-
-
-
-- **[Uyuni for Retail](https://www.uyuni-project.org/)**
-
-  **Open-source retail infrastructure management platform**, open-source . **Uyuni Server**: contains infrastructure, network topology, and automation for image deployment and day-to-day operations. **Branch Servers**: located near POS terminals, providing PXE boot, image cache, Salt broker, proxy for software components, and local networking (DHCP/DNS). **POS Terminals**: supports point-of-sale terminals, kiosks, digital scales, self-service systems, and reverse-vending systems with BIOS and UEFI boot. **Hardware Types** group devices by manufacturer and name. **Salt Formulas** simplify configuration with pre-written Salt states. **Saltboot** handles bootstrapping, deployment, and validation of terminals. **Prometheus + Grafana** for monitoring. **Best for retail organizations managing distributed POS infrastructure** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Budy E-commerce** — Simple E-commerce infrastructure providing a Shopify-like experience with configurable payments (Stripe, PayPal, Easypay), shipping, taxes, and discounts .
-
-- **LiteCart** — Lightweight e-commerce platform with Stripe, PayPal, and SpectroCoin payment integrations, Docker/Kubernetes support .
-
-- **Fat Free CRM** — Ruby on Rails CRM platform with 0.28.0 released April 2026 .
-
-- **Twenty** — Modern open-source CRM with Notion-like interface and GraphQL API.
-
-- **Odoo** — Open-source ERP with CRM, e-commerce, POS, and inventory modules.
-
-
-
-**Frameworks for building custom retail omnichannel CRM solutions**: Combine **Spree** for a complete open-source commerce platform with channels for web, mobile, POS, and marketplaces . Use **EspoCRM** for the CRM layer with contacts, deals, and support cases . Deploy **LEO CDP** or **Tracardi** for unified customer data, AI-powered segmentation, and real-time personalization . Integrate **Medusa POS** or **Ready POS** for in-store point-of-sale synced with your e-commerce backend . Use **Krayin** for a Laravel-based CRM foundation . Note that true enterprise omnichannel CRM with AI-powered personalization, unified commerce orchestration, and vendor-supported SLAs (Salesforce Retail Cloud, Shopify Plus, Bloomreach) remains primarily commercial territory; open-source stacks provide strong commerce platforms, CRM foundations, and CDP engines that require integration for complete retail omnichannel operations .
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Retail omnichannel CRM platforms handle sensitive customer data and must comply with data privacy regulations (GDPR, CCPA, PCI-DSS for payments). Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations.
-
-- **Unified customer data is critical** — CDPs like LEO CDP and Tracardi unify customer profiles across channels, enabling real-time personalization and predictive analytics .
-
-- **In-store and online sync must be seamless** — POS solutions like Medusa POS and Ready POS sync inventory and orders in real time across channels .
-
-- **License considerations**: Spree uses BSD 3-Clause , EspoCRM uses AGPLv3 , LEO CDP uses Apache-2.0 , Tracardi uses MIT with Common Clause , Krayin uses MIT , and Medusa POS uses MIT . Verify licensing against your use case before committing.
-
-- The open-source ecosystem provides strong commerce platforms, CRM foundations, and CDP engines, but **AI-powered personalization at scale, unified commerce orchestration, and vendor-supported SLAs** remain primarily commercial offerings .
+- **Disclaimer**: This list is community-curated for informational purposes only and does not constitute formal financial or architectural endorsement.
+- **Data Compliance**: Retail omnichannel CRM platforms process sensitive customer data. Ensure strict adherence to GDPR, CCPA, and PCI-DSS compliance standards.
+- **License**: Distributed under the MIT License.
